@@ -1,8 +1,8 @@
-# TP integrador
+TP integrador
 
 Pablo Videla
 
-## Completado
+Completado
 
 \- Entorno.  
 \- Acceso remoto.  
@@ -15,6 +15,6 @@ Pablo Videla
   \- Gateway: 192.168.77.1.  
   \- Red compartida con UTM.
 
-## Incompleto
+Incompleto
 
 \- Script de backup y cron.
